@@ -1,0 +1,2 @@
+python -m notebook laptops_data_exploration/cleaning_laptops_data.ipynb
+python -m notebook laptops_data_exploration/price_laptops_analyst.ipynb
