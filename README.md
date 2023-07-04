@@ -28,7 +28,7 @@ Project Status: [NotCompletet]
 1. Clone this repo (for help see this [tutorial](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) ).
 2. Open a terminal and go to the project_ds folder.
 3. Execute the command:
-''' chmod +x run_analyst.sh '''
-After making the first notebook, use the shortcut in the terminal 'Ctrl+c'
+``` chmod +x run_analyst.sh ```
+After making the first notebook, use the shortcut in the terminal `Ctrl+c`
 4. Execute the command: 
-''' ./run_analyst.sh '''
+``` ./run_analyst.sh ```
