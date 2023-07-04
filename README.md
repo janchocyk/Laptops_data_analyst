@@ -26,5 +26,9 @@ Project Status: [NotCompletet]
 ### Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) ).
-2. Data cleaning scripts are being kept in the file cleaning_laptops_data.ipynb.
-3. Data processing scripts are being kept in the file price_laptops_analyst.ipynb.
+2. Otwórz terminal i wejdź do folderu project_ds.
+3. Wykonaj komendę:
+'''chmod +x run_analyst.sh'''
+Po wykonaniu pierwszego notebook użyj w terminalu skrótu 'Ctrl+c'
+4. Wykonaj komendę: 
+'''./run_analyst.sh'''
