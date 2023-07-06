@@ -32,3 +32,4 @@ Project Status: [NotCompletet]
 After making the first notebook, use the shortcut in the terminal `Ctrl+c`
 4. Execute the command: 
 ``` ./run_analyst.sh ```
+The run_analyst.sh script will execute two notebooks sequentially, which are part of the analysis presentation. The first notebook encompasses the data cleaning process, while the second one includes visualizations and models.
